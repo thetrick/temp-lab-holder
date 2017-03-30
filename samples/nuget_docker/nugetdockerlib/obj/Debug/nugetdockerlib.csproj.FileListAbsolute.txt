@@ -1,0 +1,9 @@
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdockerlib\obj\Debug\nugetdockerlib.csprojResolveAssemblyReference.cache
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdockerlib\bin\Debug\nugetdockerlib.dll
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdockerlib\bin\Debug\nugetdockerlib.pdb
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdockerlib\bin\Debug\nugetdocker.exe
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdockerlib\bin\Debug\nunit.framework.dll
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdockerlib\bin\Debug\nugetdocker.pdb
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdockerlib\bin\Debug\nunit.framework.xml
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdockerlib\obj\Debug\nugetdockerlib.dll
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdockerlib\obj\Debug\nugetdockerlib.pdb

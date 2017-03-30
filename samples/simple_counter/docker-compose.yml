@@ -1,0 +1,10 @@
+version: "2.0"
+services:
+  simplecount:
+    build: "./simplecount/"
+    ports: 
+      - "4040:4040"
+    depends_on: 
+      - redis
+  redis:
+    image: redis:latest

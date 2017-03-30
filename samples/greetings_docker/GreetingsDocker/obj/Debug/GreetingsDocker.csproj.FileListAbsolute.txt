@@ -1,0 +1,6 @@
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\greetings_docker\GreetingsDocker\bin\Debug\GreetingsDocker.exe.config
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\greetings_docker\GreetingsDocker\bin\Debug\GreetingsDocker.exe
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\greetings_docker\GreetingsDocker\bin\Debug\GreetingsDocker.pdb
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\greetings_docker\GreetingsDocker\obj\Debug\GreetingsDocker.csprojResolveAssemblyReference.cache
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\greetings_docker\GreetingsDocker\obj\Debug\GreetingsDocker.exe
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\greetings_docker\GreetingsDocker\obj\Debug\GreetingsDocker.pdb

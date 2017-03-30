@@ -1,0 +1,6 @@
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdocker\bin\Debug\nugetdocker.exe.config
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdocker\bin\Debug\nugetdocker.exe
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdocker\bin\Debug\nugetdocker.pdb
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdocker\obj\Debug\nugetdocker.exe
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdocker\obj\Debug\nugetdocker.pdb
+C:\Users\thetrick\Desktop\Repos\docker-labs\samples\nuget_docker\nugetdocker\obj\Debug\nugetdocker.csprojResolveAssemblyReference.cache
